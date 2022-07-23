@@ -19,7 +19,7 @@ https://leetcode.com/problems/the-maze/solution/
 
 # Code: 
 https://github.com/groovyxw/Algorithm/blob/main/MAZE/DFS/Python/maze.py
-/groovyxw/Algorithm/MAZE/DFS/Python/maze.py
+
 
 # How to run?
 1. copy the source file to your directory: 
