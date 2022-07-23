@@ -37,13 +37,16 @@ VSC:
 
 
 
+
 LeetCode platform:
+
 1.Just copy the Class Solution to the Python editor in Leetcode
+
 2.Submit
 
 
 
 
-# Document(Google Slides): 
+# Document(Google Slide): 
 https://docs.google.com/presentation/d/1zgACbu8exgt_7LpzfhcodefNIrjv7ME2vFq8WphGoeg/edit?usp=sharing
 
