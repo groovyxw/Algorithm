@@ -1,7 +1,12 @@
 # The maze 
+https://github.com/groovyxw/Algorithm/blob/main/Maze_Problem2_2.PNG?raw=true
 
 Leetcode question description: 
 https://leetcode.com/problems/the-maze/solution/
+
+Solution:
+DFS
+
 
 Code: 
 ./Algorithm/MAZE/DFS/Python/maze.py
