@@ -7,7 +7,7 @@ Leetcode question description:
 https://leetcode.com/problems/the-maze/solution/
 
 Solution:
-![GitHub Logo](matrix_dfs_.PNG)
+![GitHub Logo](matrix_dfs_.png)
 
 
 Code: 
