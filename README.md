@@ -1,4 +1,7 @@
 # The maze 
+
+![GitHub Logo](Maze_Problem2_2.PNG)
+
 Maze Description: 
 https://github.com/groovyxw/Algorithm/blob/main/Maze_Problem2_2.PNG?raw=true
 
