@@ -2,12 +2,20 @@
 
 ![GitHub Logo](Maze_Problem2_2.PNG)
 
+
+
+
 Solution:
+
+
+
 ![GitHub Logo](matrix_dfs_.png)
 
 
 Leetcode question description: 
 https://leetcode.com/problems/the-maze/solution/
+
+
 
 # Code: 
 ./Algorithm/MAZE/DFS/Python/maze.py
