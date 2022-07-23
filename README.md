@@ -21,11 +21,20 @@ https://leetcode.com/problems/the-maze/solution/
 https://github.com/groovyxw/Algorithm/blob/main/MAZE/DFS/Python/maze.py
 
 
-# How to run on ubuntu?
+# How to run ?
+ubuntu:
 1. copy the source file to your directory: 
     copy ~/maze.py to your dir 
 2. run python script file: 
     python3 maze.py
+VSC:
+1. copy maze.py to your working directory
+2. click the run button on the VSC
+
+LeetCode platform:
+1.Just copy the Class Solution to the Python editor in Leetcode
+2.Submit
+
 
 # Document(Google Slides): 
 https://docs.google.com/presentation/d/1zgACbu8exgt_7LpzfhcodefNIrjv7ME2vFq8WphGoeg/edit?usp=sharing
