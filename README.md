@@ -1,4 +1,5 @@
 # The maze 
+Maze Description: 
 https://github.com/groovyxw/Algorithm/blob/main/Maze_Problem2_2.PNG?raw=true
 
 Leetcode question description: 
