@@ -21,7 +21,7 @@ https://leetcode.com/problems/the-maze/solution/
 https://github.com/groovyxw/Algorithm/blob/main/MAZE/DFS/Python/maze.py
 
 
-# How to run?
+# How to run on ubuntu?
 1. copy the source file to your directory: 
     copy ~/maze.py to your dir 
 2. run python script file: 
