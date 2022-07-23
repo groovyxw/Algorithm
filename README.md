@@ -22,7 +22,7 @@ https://github.com/groovyxw/Algorithm/blob/main/MAZE/DFS/Python/maze.py
 
 
 # How to run ?
-ubuntu:
+On ubuntu:
 1. copy the source file to your directory: 
     copy ~/maze.py to your dir 
 2. run python script file: 
@@ -30,7 +30,7 @@ ubuntu:
     
 
 
-VSC:
+VSC on Windows:
 1. copy maze.py to your working directory
 2. click the run button on the VSC
 
@@ -41,7 +41,6 @@ VSC:
 LeetCode platform:
 
 1.Just copy the Class Solution to the Python editor in Leetcode
-
 2.Submit
 
 
