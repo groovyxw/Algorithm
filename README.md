@@ -27,13 +27,21 @@ ubuntu:
     copy ~/maze.py to your dir 
 2. run python script file: 
     python3 maze.py
+    
+
+
 VSC:
 1. copy maze.py to your working directory
 2. click the run button on the VSC
 
+
+
+
 LeetCode platform:
 1.Just copy the Class Solution to the Python editor in Leetcode
 2.Submit
+
+
 
 
 # Document(Google Slides): 
