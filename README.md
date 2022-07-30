@@ -6,7 +6,9 @@
 
 
 Solution:
-
+- Graph Theory
+- DFS with backtracking
+- Stack
 
 
 ![GitHub Logo](matrix_dfs_.png)
