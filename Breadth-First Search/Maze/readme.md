@@ -1,5 +1,5 @@
 # Breadth-Fist Search: The Maze
-# Description
+# Description - Leetcode 490 The maze
 There is a ball in a maze with empty spaces and walls. The ball can go through empty spaces by rolling up, down, left or right, but it won't stop rolling until hitting a wall. When the ball stops, it could choose the next direction.
 
 Given the ball's start position, the destination and the maze, determine whether the ball could stop at the destination.
@@ -8,10 +8,14 @@ The maze is represented by a binary 2D array. 1 means the wall and 0 means the e
 
 # Solution
 BFS : find the shortest path
+
+
 DFS : find the path
 
 # How to run it?
 Way1: On Windows, copy the codes into your VSC editor. Click the 'run' button to run it.
+
+
 Way2: On ubuntu, download the file bfs_maze.py into your working directory, run 'python3 bfs_maze.py' to run it.
 
 # Presentation
