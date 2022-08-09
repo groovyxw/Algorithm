@@ -4,7 +4,7 @@ There is a ball in a maze with empty spaces and walls. The ball can go through e
 
 Given the ball's start position, the destination and the maze, determine whether the ball could stop at the destination.
 
-
+![GitHub Logo](bfs_problem.PNG)
 
 ## Solution
 The maze is represented by a binary 2D array. 1 means the wall and 0 means the empty space. You may assume that the borders of the maze are all walls. The start and destination coordinates are represented by row and column indexes.
