@@ -1,4 +1,4 @@
-# Breadth-Fist Search: The Maze
+# Breadth-First Traversal: The Maze
 # Description - Leetcode 490 The maze
 There is a ball in a maze with empty spaces and walls. The ball can go through empty spaces by rolling up, down, left or right, but it won't stop rolling until hitting a wall. When the ball stops, it could choose the next direction.
 
