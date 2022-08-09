@@ -12,6 +12,9 @@ BFS : find the shortest path
 
 DFS : find the path
 
+We will use BFS to solve the maze problem here.
+
+
 # How to run it?
 Way1: On Windows, copy the codes into your VSC editor. Click the 'run' button to run it.
 
