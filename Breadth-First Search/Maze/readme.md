@@ -22,7 +22,7 @@ We will use BFS algorithm to solve the maze problem here.
 Way1: On Windows, copy the codes into your VSC editor. Click the 'run' button to run it.
 
 
-Way2: On ubuntu, download the file bfs_maze.py into your working directory, run 'python3 bfs_maze.py' to run it.
+Way2: On ubuntu, download the file maze_bfs.py into your working directory, run 'python3 bfs_maze.py' to run it.
 
 ## Presentation
 [Breadth-First Traversal: The Maze](https://docs.google.com/presentation/d/1IxDKEYZMIFmObrPERAgaAxwmnGNR5qziqgttXQEamWU/edit?usp=sharing)
