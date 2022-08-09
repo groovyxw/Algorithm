@@ -12,7 +12,7 @@ BFS : find the shortest path
 
 DFS : find the path
 
-We will use BFS to solve the maze problem here.
+We will use BFS algorithm to solve the maze problem here.
 
 
 # How to run it?
