@@ -10,10 +10,12 @@ Given the ball's start position, the destination and the maze, determine whether
 The maze is represented by a binary 2D array. 1 means the wall and 0 means the empty space. You may assume that the borders of the maze are all walls. The start and destination coordinates are represented by row and column indexes.
 
 
-BFS : find the shortest path
+![GitHub Logo](bfs_sol.PNG)
+
+BFS : find the shortest path (queue)
 
 
-DFS : find one path
+DFS : find one path (stack)
 
 We will use BFS algorithm to solve the maze problem here.
 
