@@ -10,7 +10,7 @@ The maze is represented by a binary 2D array. 1 means the wall and 0 means the e
 BFS : find the shortest path
 
 
-DFS : find the path
+DFS : find one path
 
 We will use BFS algorithm to solve the maze problem here.
 
